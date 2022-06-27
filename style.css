@@ -1,0 +1,27 @@
+<link href="style.css" rel="stylesheet" type="text/css" />
+html, body {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+h1 {
+  color: #000071;
+  font-family: Arial;
+  font-size: 35px;
+  text-align: center;
+  background-color: rgb(97, 61, 17);
+}
+h2 {
+  color: darkred;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+  }
+img {
+  width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
